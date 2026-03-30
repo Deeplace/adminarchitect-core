@@ -8,12 +8,6 @@
         }
     ],
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Deeplace/laravel-breadcrumbs.git"
-        }
-    ],
     "require": {
         "php": "^8.2",
         "ext-json": "*",
