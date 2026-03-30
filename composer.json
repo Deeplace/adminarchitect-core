@@ -57,7 +57,7 @@
         "deeplace/adminarchitect-news": "news module",
         "deeplace/adminarchitect-pages": "pages module",
         "deeplace/adminarchitect-contacts": "configurable contact form",
-        "terranet/translatable": "to manage multilingual records",
-        "terranet/presentable": "implements presentable pattern"
+        "deeplace/adminarchitect-translatable": "to manage multilingual records",
+        "deeplace/adminarchitect-presentable": "implements presentable pattern"
     }
 }
