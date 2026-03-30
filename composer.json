@@ -14,12 +14,12 @@
         "doctrine/dbal": "2.9.*",
         "deeplace/laravel-breadcrumbs": "dev-main",
         "czim/laravel-paperclip": "2.7.*",
-        "terranet/menus": "^2.2",
-        "terranet/php-humanizer": "2.*",
+        "deeplace/adminarchitect-menus": "^2.2",
+        "deeplace/php-humanizer": "2.*",
         "creativeorange/gravatar": "~1.0",
-        "terranet/presentable": "^1.0",
-        "terranet/translatable": "^1.0",
-        "terranet/localizer": "^1.0",
+        "deeplace/adminarchitect-presentable": "^1.0",
+        "deeplace/adminarchitect-translatable": "^1.0",
+        "deeplace/adminarchitect-localizer": "^1.0",
         "zendframework/zend-code": "2.*|3.*"
     },
     "require-dev": {
@@ -52,11 +52,11 @@
         }
     },
     "suggest": {
-        "adminarchitect/options": "to store and manage settings",
-        "adminarchitect/localizer": "to have language detection support by Request Uri, Domain name and Environment",
-        "adminarchitect/news": "news module",
-        "adminarchitect/pages": "pages module",
-        "adminarchitect/contacts": "configurable contact form",
+        "deeplace/adminarchitect-options": "to store and manage settings",
+        "deeplace/adminarchitect-localizer": "to have language detection support by Request Uri, Domain name and Environment",
+        "deeplace/adminarchitect-news": "news module",
+        "deeplace/adminarchitect-pages": "pages module",
+        "deeplace/adminarchitect-contacts": "configurable contact form",
         "terranet/translatable": "to manage multilingual records",
         "terranet/presentable": "implements presentable pattern"
     }
